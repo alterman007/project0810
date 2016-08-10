@@ -1,0 +1,22 @@
+{
+  "name": "project0810",
+  "version": "1.0.0",
+  "description": "使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alterman007/project0810.git"
+  },
+  "author": "alterman007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alterman007/project0810/issues"
+  },
+  "homepage": "https://github.com/alterman007/project0810#readme",
+  "keywords": [
+    "使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用"
+  ]
+}
